@@ -1,5 +1,5 @@
 
-name: Update IMDb watchlist
+name: Update IMDb Watchlist
 
 on:
   workflow_dispatch:
@@ -13,27 +13,122 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Check IMDb watchlist
+      - name: Read complete IMDb watchlist
+        env:
+          IMDB_USER_ID: ur210854686
         run: |
-          curl -sS -L \
-            -A "Mozilla/5.0" \
-            -o watchlist-response.html \
-            -w "HTTP status: %{http_code}\n" \
-            "https://www.imdb.com/user/ur210854686/watchlist/"
-          head -c 500 watchlist-response.html
+          python - <<'PY'
+          import json
+          import os
+          import sys
+          import urllib.request
 
-      - name: Save response for inspection
-        run: |
-          mkdir -p data
-          cp watchlist-response.html data/watchlist-response.html
+          endpoint = "https://api.graphql.imdb.com/"
+          user_id = os.environ["IMDB_USER_ID"]
 
-      - name: Commit response
+          query = """
+          query GetWatchlist($userId: ID!, $first: Int!, $after: ID) {
+            predefinedList(classType: WATCH_LIST, userId: $userId) {
+              titleListItemSearch(first: $first, after: $after) {
+                edges {
+                  node {
+                    title {
+                      id
+                      titleText {
+                        text
+                      }
+                      releaseYear {
+                        year
+                      }
+                    }
+                  }
+                }
+                pageInfo {
+                  hasNextPage
+                  endCursor
+                }
+              }
+            }
+          }
+          """
+
+          titles = []
+          cursor = None
+          seen_cursors = set()
+
+          while True:
+              payload = {
+                  "query": query,
+                  "variables": {
+                      "userId": user_id,
+                      "first": 100,
+                      "after": cursor
+                  }
+              }
+
+              request = urllib.request.Request(
+                  endpoint,
+                  data=json.dumps(payload).encode(),
+                  headers={
+                      "Content-Type": "application/json",
+                      "Accept": "application/json",
+                      "User-Agent": "Mozilla/5.0"
+                  },
+                  method="POST"
+              )
+
+              try:
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      result = json.load(response)
+              except Exception as exc:
+                  sys.exit(f"IMDb request failed: {exc}")
+
+              if result.get("errors"):
+                  sys.exit("IMDb GraphQL errors: " + json.dumps(result["errors"]))
+
+              listing = (result.get("data") or {}).get("predefinedList")
+              if listing is None:
+                  sys.exit("IMDb returned no public watchlist.")
+
+              connection = listing.get("titleListItemSearch")
+              if connection is None:
+                  sys.exit("IMDb response has no titleListItemSearch.")
+
+              for edge in connection.get("edges", []):
+                  title = (edge.get("node") or {}).get("title")
+                  if title and title.get("id"):
+                      titles.append({
+                          "id": title["id"],
+                          "title": (title.get("titleText") or {}).get("text"),
+                          "year": (title.get("releaseYear") or {}).get("year")
+                      })
+
+              page = connection["pageInfo"]
+              if not page["hasNextPage"]:
+                  break
+
+              cursor = page.get("endCursor")
+              if not cursor or cursor in seen_cursors:
+                  sys.exit("Pagination failed; refusing incomplete data.")
+              seen_cursors.add(cursor)
+
+          if not titles:
+              sys.exit("No titles returned; refusing to publish an empty list.")
+
+          os.makedirs("data", exist_ok=True)
+          with open("data/watchlist.json", "w", encoding="utf-8") as f:
+              json.dump(titles, f, ensure_ascii=False, indent=2)
+
+          print(f"Successfully fetched {len(titles)} titles.")
+          PY
+
+      - name: Commit watchlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/watchlist-response.html
-          git diff --cached --quiet || git commit -m "Update IMDb response"
+          git add data/watchlist.json
+          git diff --cached --quiet || git commit -m "Update IMDb watchlist"
           git push
