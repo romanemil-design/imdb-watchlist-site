@@ -1,21 +1,347 @@
 [
   {
-    "imdbID": "tt33041431",
-    "Title": "Vought Rising",
-    "Year": "2027–",
-    "Type": "series",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjE5NWIyZDQtMDdmYy00YWUwLTk3MzMtMjhiOTc3ZTJlMzI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "Genre": "Action, Adventure, Comedy",
-    "Plot": "A prequel series set in the 1950s that follows Soldier Boy and Clara Vought (known to some as Stormfront) on a murder mystery during the early days of Vought."
+    "imdbID": "tt13623128",
+    "Title": "Armor Wars",
+    "Year": null
   },
   {
-    "imdbID": "tt37968650",
-    "Title": "The Last Photograph",
+    "imdbID": "tt28103605",
+    "Title": "Extraction 3",
+    "Year": null
+  },
+  {
+    "imdbID": "tt8285320",
+    "Title": "Fortitude",
+    "Year": null
+  },
+  {
+    "imdbID": "tt27665778",
+    "Title": "Horizon: An American Saga - Chapter 2",
+    "Year": "2025",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDg1OWI3NTYtY2IwMy00NmQ4LTk5YWUtZmViNmU5YTFkNGU5XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Genre": "Drama, Western",
+    "Runtime": "190 min",
+    "imdbRating": "7.0",
+    "imdbVotes": "1,944",
+    "Released": "07 Feb 2025",
+    "Plot": "The continuation of one story of the settlement of the American west. It follows the further adventures of characters first featured in Horizon: An American Saga."
+  },
+  {
+    "imdbID": "tt35866986",
+    "Title": "How to Rob a Bank",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MTAxYTItZjUzMC00NDk3LWI0OWMtZjM0YTU3ODUyMDk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Crime, Thriller",
+    "Released": "04 Sep 2026",
+    "Plot": "Bank robbers are posting their heists on social media, causing police to chase them."
+  },
+  {
+    "imdbID": "tt35856037",
+    "Title": "Your Mother Your Mother Your Mother",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTYzNDA1MzQtMGVlZS00YTc5LTg4M2QtZGY0M2Y3NTQxNjcyXkEyXkFqcGc@._V1_QL75_UX186_.jpg",
+    "Genre": "Action, Crime, Drama",
+    "Released": "25 Sep 2026",
+    "Plot": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel."
+  },
+  {
+    "imdbID": "tt31450459",
+    "Title": "Digger",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Comedy, Drama",
+    "Runtime": "106 min",
+    "Released": "02 Oct 2026",
+    "Plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
+  },
+  {
+    "imdbID": "tt32261958",
+    "Title": "Verity",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Crime, Drama, Mystery",
+    "Runtime": "114 min",
+    "Released": "02 Oct 2026",
+    "Plot": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
+  },
+  {
+    "imdbID": "tt38672588",
+    "Title": "Masterplan",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjIyYjlmOTAtYTMzZC00OTM1LWE5YWUtZWMzZTQ1OWEyYWIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Genre": "Action, Comedy, Crime",
+    "Runtime": "109 min",
+    "Released": "16 Oct 2026",
+    "Plot": "A master thief enlists two strangers for a Louvre heist targeting the Mona Lisa, then reveals they're his children and siblings who must cooperate to pull off history's greatest art theft."
+  },
+  {
+    "imdbID": "tt34890576",
+    "Title": "Clayface",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Released": "23 Oct 2026",
+    "Plot": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity."
+  },
+  {
+    "imdbID": "tt36753615",
+    "Title": "Bad Lieutenant: Tokyo",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdkNzgxYjgtNmFmYi00ZjA3LWI4M2ItMDI1MzZmNzRiMGVjXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+    "Genre": "Crime, Mystery, Thriller",
+    "Runtime": "108 min",
+    "Released": "23 Oct 2026",
+    "Plot": "A corrupt gambler in the Metropolitan Police Force finds himself thrown into a tangled case after an enigmatic FBI agent arrives in Tokyo to investigate the disappearance of a politician's daughter. Meanwhile, a deviant killer operating in the yakuza underworld seems to be shadowing their moves."
+  },
+  {
+    "imdbID": "tt32359344",
+    "Title": "Wife and Dog",
+    "Year": "2026",
+    "Type": "movie",
+    "Genre": "Thriller",
+    "Released": "23 Oct 2026",
+    "Plot": "A scientist discovers a major pesticide's harmful effects and fights its corporate maker, facing mounting tensions. Based on true events."
+  },
+  {
+    "imdbID": "tt13884466",
+    "Title": "Model Citizen",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWVjM2Y0YWEtNTczZi00YjdlLWIxOGQtOGJhYzI4NzI1OTZhXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+    "Genre": "Crime, Sci-Fi, Thriller",
+    "Runtime": "93 min",
+    "Released": "03 Nov 2026",
+    "Plot": "A man awakes from a coma to find that his well-being is now the responsibility of an avatar provided by the government."
+  },
+  {
+    "imdbID": "tt34384661",
+    "Title": "Godzilla Minus Zero",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWUyMDY0NWQtMjI2Zi00YjMwLTkwYmItZDk1MGI5MjEzODQxXkEyXkFqcGc@._V1_QL75_UY562_CR10,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Drama",
+    "Runtime": "119 min",
+    "Released": "06 Nov 2026",
+    "Plot": "Direct continuation of Takashi Yamazaki's Godzilla Minus One."
+  },
+  {
+    "imdbID": "tt38686316",
+    "Title": "Archangel",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Genre": "Action, Drama",
+    "Released": "06 Nov 2026",
+    "Plot": "A weapon systems engineer and former Green Beret protects his Wyoming neighbors against a ruthless corporation threatening their rural community."
+  },
+  {
+    "imdbID": "tt15799564",
+    "Title": "Wild Horse Nine",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Genre": "Comedy, Crime, Drama",
+    "Released": "06 Nov 2026",
+    "Plot": "Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students (Mariana di Girolamo and Ailín Salas) threatens to send everyone's trip to this remote paradise sideways."
+  },
+  {
+    "imdbID": "tt32558705",
+    "Title": "The Hunger Games: Sunrise on the Reaping",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkYmM2MjUtZTY4Yi00YTNhLTk1MDEtYTQ3YjFiOTljM2Y1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Drama",
+    "Runtime": "150 min",
+    "Released": "20 Nov 2026",
+    "Plot": "Explores Panem 24 years before Katniss' saga, starting on the morning of the reaping for the 50th Hunger Games, where a young Haymitch Abernathy participates."
+  },
+  {
+    "imdbID": "tt34966140",
+    "Title": "Focker-In-Law",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+    "Genre": "Comedy",
+    "Released": "25 Nov 2026",
+    "Plot": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch."
+  },
+  {
+    "imdbID": "tt24818230",
+    "Title": "Madden",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTMzM2ExNjAtNGFhMC00ZGYwLTkwZmMtMDU2YzJhNDkwZjM2XkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
+    "Genre": "Biography, Comedy, Drama",
+    "Released": "26 Nov 2026",
+    "Plot": "John Madden's remarkable journey-from a Super Bowl-winning partnership with Al Davis and the Raiders, to creating Madden NFL, and becoming one of the most iconic voices in football history."
+  },
+  {
+    "imdbID": "tt29634374",
+    "Title": "Above the Below",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_QL75_UX280_CR0,25,280,280_.jpg",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Released": "04 Dec 2026",
+    "Plot": "Three astronauts return to Earth only to discover their fight for survival has just begun after their damaged spacecraft is violently hurled through the atmosphere and plunges into the depths of the ocean. With oxygen rapidly running out and hope fading, they are forced to make an unthinkable choice: who will risk everything to reach the surface...and who will remain behind with the wreckage below."
+  },
+  {
+    "imdbID": "tt21357150",
+    "Title": "Avengers: Doomsday",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdlMDgxNjAtNjkxOC00ZDYxLTg3MDEtZmIwZjIxOGMwYjVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Runtime": "165 min",
+    "Released": "18 Dec 2026",
+    "Plot": "Heroes from three different worlds must unite when they're thrust together to confront a catastrophic danger that could destroy everything they know."
+  },
+  {
+    "imdbID": "tt31378509",
+    "Title": "Dune: Part Three",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjk1NjgwZDMtYzI5OS00Y2Q4LWI1NmItNTE5OGU2NDVmMTAxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Drama",
+    "Released": "18 Dec 2026",
+    "Plot": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see."
+  },
+  {
+    "imdbID": "tt34512981",
+    "Title": "Ice Age 6",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjgxMGRjYTktZTE2OS00MmRhLTlkNGEtMGYxNjY3NDhlOWNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Genre": "Animation, Adventure, Comedy",
+    "Released": "18 Dec 2026",
+    "Plot": "The plot is being kept under wraps"
+  },
+  {
+    "imdbID": "tt34491649",
+    "Title": "Zero A.D.",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Drama, History, Thriller",
+    "Released": "25 Dec 2026",
+    "Plot": "A terrified king hunts a child of prophecy, and one woman must fight for the soul of mankind."
+  },
+  {
+    "imdbID": "tt35514120",
+    "Title": "Werwulf",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTA5YjA5NTAtMjJlOS00ZTVkLWE0MDgtNDY0ZjVhOTE5NTg3XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
+    "Genre": "Horror",
+    "Released": "25 Dec 2026",
+    "Plot": "In medieval Britain, a mysterious creature stalks the foggy countryside, transforming local folklore into terrifying reality as villagers face an ancient supernatural threat."
+  },
+  {
+    "imdbID": "tt26735127",
+    "Title": "Jumanji: Open World",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_QL75_UY562_CR179,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Comedy",
+    "Released": "25 Dec 2026",
+    "Plot": "The fourth and final installment in the Jumanji franchise, it is the direct sequel to Jumanji: The Next Level, the third film in the main series."
+  },
+  {
+    "imdbID": "tt6779038",
+    "Title": "Children of Blood and Bone",
     "Year": "2027",
     "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ4ZGZlNGQtMjYxMi00NGNhLTgwYmYtMzdkYTQzZmQzNTQyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Genre": "Drama",
-    "Plot": "An ex-DEA agent searches South American mountains for his murdered diplomat siblings' children, aided by a junkie photographer who saw the killers, confronting past demons as reality blurs in remote wilderness."
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWE1MTlkZDktMGEyZS00NGYwLWE5YzctMTYyNmVhZTNlMjkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Drama",
+    "Released": "14 Jan 2027",
+    "Plot": "Zélie Adebola remembers when the soil of Orïsha hummed with magic. Burners ignited flames, Tiders beckoned waves, and Zélie's Reaper mother summoned forth souls. Everything changed the night magic disappeared. Under the orders of a ruthless king, maji were killed, leaving Zélie without a mother and her people without hope. Now Zélie has one chance to bring back magic and strike against the monarchy. With the help of a rogue princess, Zélie must outwit and outrun the crown prince, who is hell-bent on eradicating magic for good. Danger lurks in Orïsha, where snow leoponaires prowl and vengeful spirits wait in the waters. Yet the greatest danger may be Zélie herself as she struggles to control her powers and her growing feelings for an enemy."
+  },
+  {
+    "imdbID": "tt35935357",
+    "Title": "The Beekeeper 2",
+    "Year": "2027",
+    "Type": "movie",
+    "Genre": "Action, Crime, Thriller",
+    "Released": "15 Jan 2027",
+    "Plot": "Now a wanted man, former government assassin Adam Clay continues his vendetta against those who wronged him."
+  },
+  {
+    "imdbID": "tt31512174",
+    "Title": "Neuromancer",
+    "Year": "2027–",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzJhNzc5ZjgtMjY1OC00ZTQyLWE2NmItYzAzNmI2ZWFhNjNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Genre": "Drama, Sci-Fi, Thriller",
+    "Released": "22 Jan 2027",
+    "Plot": "A damaged hacker named Case, thrust into digital espionage and high stakes crime with Molly, pulling a heist on corporate dynasty."
+  },
+  {
+    "imdbID": "tt5500064",
+    "Title": "The Thomas Crown Affair",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ0ZDU2NmEtMTU1ZC00NDQyLTgyNDQtM2RkZTE3NTI4NzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Comedy",
+    "Released": "05 Mar 2027",
+    "Plot": "Third take on the Thomas Crown Affair movies."
+  },
+  {
+    "imdbID": "tt32561550",
+    "Title": "Godzilla x Kong: Supernova",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjFiMmEwNjktYjMzYi00MTAxLTkzMjQtYmM0YWQxZGIzODM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Sci-Fi",
+    "Released": "26 Mar 2027",
+    "Plot": "Godzilla and Kong face off against a cataclysmic threat."
+  },
+  {
+    "imdbID": "tt18795088",
+    "Title": "Day Drinker",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGJkYWM5ZDgtNmUyNS00ZDdiLTliODMtNDhmNzYyMTEzMzM0XkEyXkFqcGc@._V1_QL75_UY562_CR316,0,380,562_.jpg",
+    "Genre": "Action, Thriller",
+    "Released": "26 Mar 2027",
+    "Plot": "An enigmatic stranger forms an unlikely bond with a grieving bartender who lost her lover, their lives intertwining in unexpected ways."
+  },
+  {
+    "imdbID": "tt32659463",
+    "Title": "Spaceballs: The New One",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ2MjQ3MTktYzUwYy00ZWVlLTgyOGEtNTQwYTA0NzdmNWQzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+    "Genre": "Comedy, Sci-Fi",
+    "Released": "23 Apr 2027",
+    "Plot": "Long-awaited sequel to Spaceballs (1987)."
+  },
+  {
+    "imdbID": "tt6113186",
+    "Title": "Shrek 5",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Animation, Adventure, Comedy",
+    "Released": "30 Jun 2027",
+    "Plot": "Movie Announcement"
+  },
+  {
+    "imdbID": "tt19850008",
+    "Title": "The Batman: Part II",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzhiYWUtYThlZi00OWIyLTk3YWEtZjY3NmJjOTZiZDAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Genre": "Action, Crime, Drama",
+    "Released": "01 Oct 2027",
+    "Plot": "Except for the bat signal in the final shot of \"The Penguin,\" we never got our Robert Pattinson Batman cameo in 8 episodes charting Oz Cobb's brutal rise from mafia chauffeur to Gotham City crime boss. In this short explainer, IMDb tries to answer: Where the heck was Batman? And what can we expect from director Matt Reeves's 'The Batman: Part II' (2026)."
   },
   {
     "imdbID": "tt39026948",
@@ -52,382 +378,21 @@
     "Plot": "Takes place fifty years after the events of \"Blade Runner 2049\"."
   },
   {
-    "imdbID": "tt19850008",
-    "Title": "The Batman: Part II",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NzhiYWUtYThlZi00OWIyLTk3YWEtZjY3NmJjOTZiZDAyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Genre": "Action, Crime, Drama",
-    "Released": "01 Oct 2027",
-    "Plot": "Except for the bat signal in the final shot of \"The Penguin,\" we never got our Robert Pattinson Batman cameo in 8 episodes charting Oz Cobb's brutal rise from mafia chauffeur to Gotham City crime boss. In this short explainer, IMDb tries to answer: Where the heck was Batman? And what can we expect from director Matt Reeves's 'The Batman: Part II' (2026)."
-  },
-  {
-    "imdbID": "tt6113186",
-    "Title": "Shrek 5",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Animation, Adventure, Comedy",
-    "Released": "30 Jun 2027",
-    "Plot": "Movie Announcement"
-  },
-  {
-    "imdbID": "tt32659463",
-    "Title": "Spaceballs: The New One",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ2MjQ3MTktYzUwYy00ZWVlLTgyOGEtNTQwYTA0NzdmNWQzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-    "Genre": "Comedy, Sci-Fi",
-    "Released": "23 Apr 2027",
-    "Plot": "Long-awaited sequel to Spaceballs (1987)."
-  },
-  {
-    "imdbID": "tt32561550",
-    "Title": "Godzilla x Kong: Supernova",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjFiMmEwNjktYjMzYi00MTAxLTkzMjQtYmM0YWQxZGIzODM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Sci-Fi",
-    "Released": "26 Mar 2027",
-    "Plot": "Godzilla and Kong face off against a cataclysmic threat."
-  },
-  {
-    "imdbID": "tt18795088",
-    "Title": "Day Drinker",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMGJkYWM5ZDgtNmUyNS00ZDdiLTliODMtNDhmNzYyMTEzMzM0XkEyXkFqcGc@._V1_QL75_UY562_CR316,0,380,562_.jpg",
-    "Genre": "Action, Thriller",
-    "Released": "26 Mar 2027",
-    "Plot": "An enigmatic stranger forms an unlikely bond with a grieving bartender who lost her lover, their lives intertwining in unexpected ways."
-  },
-  {
-    "imdbID": "tt5500064",
-    "Title": "The Thomas Crown Affair",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ0ZDU2NmEtMTU1ZC00NDQyLTgyNDQtM2RkZTE3NTI4NzIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Comedy",
-    "Released": "05 Mar 2027",
-    "Plot": "Third take on the Thomas Crown Affair movies."
-  },
-  {
-    "imdbID": "tt31512174",
-    "Title": "Neuromancer",
+    "imdbID": "tt33041431",
+    "Title": "Vought Rising",
     "Year": "2027–",
     "Type": "series",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzJhNzc5ZjgtMjY1OC00ZTQyLWE2NmItYzAzNmI2ZWFhNjNiXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "Genre": "Drama, Sci-Fi, Thriller",
-    "Released": "22 Jan 2027",
-    "Plot": "A damaged hacker named Case, thrust into digital espionage and high stakes crime with Molly, pulling a heist on corporate dynasty."
-  },
-  {
-    "imdbID": "tt35935357",
-    "Title": "The Beekeeper 2",
-    "Year": "2027",
-    "Type": "movie",
-    "Genre": "Action, Crime, Thriller",
-    "Released": "15 Jan 2027",
-    "Plot": "Now a wanted man, former government assassin Adam Clay continues his vendetta against those who wronged him."
-  },
-  {
-    "imdbID": "tt6779038",
-    "Title": "Children of Blood and Bone",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWE1MTlkZDktMGEyZS00NGYwLWE5YzctMTYyNmVhZTNlMjkyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Drama",
-    "Released": "14 Jan 2027",
-    "Plot": "Zélie Adebola remembers when the soil of Orïsha hummed with magic. Burners ignited flames, Tiders beckoned waves, and Zélie's Reaper mother summoned forth souls. Everything changed the night magic disappeared. Under the orders of a ruthless king, maji were killed, leaving Zélie without a mother and her people without hope. Now Zélie has one chance to bring back magic and strike against the monarchy. With the help of a rogue princess, Zélie must outwit and outrun the crown prince, who is hell-bent on eradicating magic for good. Danger lurks in Orïsha, where snow leoponaires prowl and vengeful spirits wait in the waters. Yet the greatest danger may be Zélie herself as she struggles to control her powers and her growing feelings for an enemy."
-  },
-  {
-    "imdbID": "tt34491649",
-    "Title": "Zero A.D.",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Drama, History, Thriller",
-    "Released": "25 Dec 2026",
-    "Plot": "A terrified king hunts a child of prophecy, and one woman must fight for the soul of mankind."
-  },
-  {
-    "imdbID": "tt35514120",
-    "Title": "Werwulf",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTA5YjA5NTAtMjJlOS00ZTVkLWE0MDgtNDY0ZjVhOTE5NTg3XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "Genre": "Horror",
-    "Released": "25 Dec 2026",
-    "Plot": "In medieval Britain, a mysterious creature stalks the foggy countryside, transforming local folklore into terrifying reality as villagers face an ancient supernatural threat."
-  },
-  {
-    "imdbID": "tt26735127",
-    "Title": "Jumanji: Open World",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_QL75_UY562_CR179,0,380,562_.jpg",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjE5NWIyZDQtMDdmYy00YWUwLTk3MzMtMjhiOTc3ZTJlMzI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
     "Genre": "Action, Adventure, Comedy",
-    "Released": "25 Dec 2026",
-    "Plot": "The fourth and final installment in the Jumanji franchise, it is the direct sequel to Jumanji: The Next Level, the third film in the main series."
+    "Plot": "A prequel series set in the 1950s that follows Soldier Boy and Clara Vought (known to some as Stormfront) on a murder mystery during the early days of Vought."
   },
   {
-    "imdbID": "tt21357150",
-    "Title": "Avengers: Doomsday",
-    "Year": "2026",
+    "imdbID": "tt37968650",
+    "Title": "The Last Photograph",
+    "Year": "2027",
     "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdlMDgxNjAtNjkxOC00ZDYxLTg3MDEtZmIwZjIxOGMwYjVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Sci-Fi",
-    "Runtime": "165 min",
-    "Released": "18 Dec 2026",
-    "Plot": "Heroes from three different worlds must unite when they're thrust together to confront a catastrophic danger that could destroy everything they know."
-  },
-  {
-    "imdbID": "tt31378509",
-    "Title": "Dune: Part Three",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjk1NjgwZDMtYzI5OS00Y2Q4LWI1NmItNTE5OGU2NDVmMTAxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Drama",
-    "Released": "18 Dec 2026",
-    "Plot": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see."
-  },
-  {
-    "imdbID": "tt34512981",
-    "Title": "Ice Age 6",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZjgxMGRjYTktZTE2OS00MmRhLTlkNGEtMGYxNjY3NDhlOWNjXkEyXkFqcGc@._V1_SX300.jpg",
-    "Genre": "Animation, Adventure, Comedy",
-    "Released": "18 Dec 2026",
-    "Plot": "The plot is being kept under wraps"
-  },
-  {
-    "imdbID": "tt29634374",
-    "Title": "Above the Below",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_QL75_UX280_CR0,25,280,280_.jpg",
-    "Genre": "Action, Sci-Fi, Thriller",
-    "Released": "04 Dec 2026",
-    "Plot": "Three astronauts return to Earth only to discover their fight for survival has just begun after their damaged spacecraft is violently hurled through the atmosphere and plunges into the depths of the ocean. With oxygen rapidly running out and hope fading, they are forced to make an unthinkable choice: who will risk everything to reach the surface...and who will remain behind with the wreckage below."
-  },
-  {
-    "imdbID": "tt24818230",
-    "Title": "Madden",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNTMzM2ExNjAtNGFhMC00ZGYwLTkwZmMtMDU2YzJhNDkwZjM2XkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
-    "Genre": "Biography, Comedy, Drama",
-    "Released": "26 Nov 2026",
-    "Plot": "John Madden's remarkable journey-from a Super Bowl-winning partnership with Al Davis and the Raiders, to creating Madden NFL, and becoming one of the most iconic voices in football history."
-  },
-  {
-    "imdbID": "tt34966140",
-    "Title": "Focker-In-Law",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,20,380,562_.jpg",
-    "Genre": "Comedy",
-    "Released": "25 Nov 2026",
-    "Plot": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch."
-  },
-  {
-    "imdbID": "tt32558705",
-    "Title": "The Hunger Games: Sunrise on the Reaping",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkYmM2MjUtZTY4Yi00YTNhLTk1MDEtYTQ3YjFiOTljM2Y1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Drama",
-    "Runtime": "150 min",
-    "Released": "20 Nov 2026",
-    "Plot": "Explores Panem 24 years before Katniss' saga, starting on the morning of the reaping for the 50th Hunger Games, where a young Haymitch Abernathy participates."
-  },
-  {
-    "imdbID": "tt34384661",
-    "Title": "Godzilla Minus Zero",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNWUyMDY0NWQtMjI2Zi00YjMwLTkwYmItZDk1MGI5MjEzODQxXkEyXkFqcGc@._V1_QL75_UY562_CR10,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Drama",
-    "Runtime": "119 min",
-    "Released": "06 Nov 2026",
-    "Plot": "Direct continuation of Takashi Yamazaki's Godzilla Minus One."
-  },
-  {
-    "imdbID": "tt38686316",
-    "Title": "Archangel",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "Genre": "Action, Drama",
-    "Released": "06 Nov 2026",
-    "Plot": "A weapon systems engineer and former Green Beret protects his Wyoming neighbors against a ruthless corporation threatening their rural community."
-  },
-  {
-    "imdbID": "tt15799564",
-    "Title": "Wild Horse Nine",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc5ZDAzNmEtNTI2OS00YWI0LWE5MTYtZTJiN2RkNzRmMjA0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "Genre": "Comedy, Crime, Drama",
-    "Released": "06 Nov 2026",
-    "Plot": "Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students (Mariana di Girolamo and Ailín Salas) threatens to send everyone's trip to this remote paradise sideways."
-  },
-  {
-    "imdbID": "tt13884466",
-    "Title": "Model Citizen",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMWVjM2Y0YWEtNTczZi00YjdlLWIxOGQtOGJhYzI4NzI1OTZhXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
-    "Genre": "Crime, Sci-Fi, Thriller",
-    "Runtime": "93 min",
-    "Released": "03 Nov 2026",
-    "Plot": "A man awakes from a coma to find that his well-being is now the responsibility of an avatar provided by the government."
-  },
-  {
-    "imdbID": "tt26598805",
-    "Title": "Nocturne",
-    "Year": "2026–",
-    "Type": "series",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZDI2NjUzOWEtN2VhZS00YzE5LTk4YWMtZDJmZmY5N2RiYzM3XkEyXkFqcGc@._V1_QL75_UY562_CR232,0,380,562_.jpg",
-    "Genre": "Crime, Drama, Thriller",
-    "Released": "30 Oct 2026",
-    "Plot": "Ex-soldier Jonah Lynn leaves Philadelphia for a quiet life. When serial killer Jurek Walter threatens his new home and family, Jonah must protect them, even as he sends his FBI agent daughter Saga to track the killer's last victim."
-  },
-  {
-    "imdbID": "tt34890576",
-    "Title": "Clayface",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTAyMjgxZjctMjRjNC00Zjg1LWJiNzctMDkxYzk0NWVmODMwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "Genre": "Horror, Sci-Fi, Thriller",
-    "Released": "23 Oct 2026",
-    "Plot": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity."
-  },
-  {
-    "imdbID": "tt36753615",
-    "Title": "Bad Lieutenant: Tokyo",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdkNzgxYjgtNmFmYi00ZjA3LWI4M2ItMDI1MzZmNzRiMGVjXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg",
-    "Genre": "Crime, Mystery, Thriller",
-    "Runtime": "108 min",
-    "Released": "23 Oct 2026",
-    "Plot": "A corrupt gambler in the Metropolitan Police Force finds himself thrown into a tangled case after an enigmatic FBI agent arrives in Tokyo to investigate the disappearance of a politician's daughter. Meanwhile, a deviant killer operating in the yakuza underworld seems to be shadowing their moves."
-  },
-  {
-    "imdbID": "tt32359344",
-    "Title": "Wife and Dog",
-    "Year": "2026",
-    "Type": "movie",
-    "Genre": "Thriller",
-    "Released": "23 Oct 2026",
-    "Plot": "A scientist discovers a major pesticide's harmful effects and fights its corporate maker, facing mounting tensions. Based on true events."
-  },
-  {
-    "imdbID": "tt6262770",
-    "Title": "Tenzing",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "Genre": "Adventure, Biography, Drama",
-    "Runtime": "128 min",
-    "imdbRating": "7.7",
-    "imdbVotes": "289",
-    "Released": "16 Oct 2026",
-    "Plot": "In 1953, Tenzing Norgay was at the heart of the successful British Everest expedition as leader of the Sherpas whose hard work brought victory and as one of the two lead climbers to reach the top. But behind Tenzing's radiant smile is an untold story of courage, tragedy, and ambition, of a man who overcame incredible odds just to reach the bottom of the mountain. Born in a sacred Tibetan valley in the shadow of Everest, Tenzing's long journey led him from life as an illiterate yak herder to become the friend of Nehru, feted by monarchs and presidents all over the world."
-  },
-  {
-    "imdbID": "tt38672588",
-    "Title": "Masterplan",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNjIyYjlmOTAtYTMzZC00OTM1LWE5YWUtZWMzZTQ1OWEyYWIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "Genre": "Action, Comedy, Crime",
-    "Runtime": "109 min",
-    "Released": "16 Oct 2026",
-    "Plot": "A master thief enlists two strangers for a Louvre heist targeting the Mona Lisa, then reveals they're his children and siblings who must cooperate to pull off history's greatest art theft."
-  },
-  {
-    "imdbID": "tt31450459",
-    "Title": "Digger",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Comedy, Drama",
-    "Runtime": "106 min",
-    "Released": "02 Oct 2026",
-    "Plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
-  },
-  {
-    "imdbID": "tt32261958",
-    "Title": "Verity",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Crime, Drama, Mystery",
-    "Runtime": "114 min",
-    "Released": "02 Oct 2026",
-    "Plot": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-  },
-  {
-    "imdbID": "tt35856037",
-    "Title": "Your Mother Your Mother Your Mother",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTYzNDA1MzQtMGVlZS00YTc5LTg4M2QtZGY0M2Y3NTQxNjcyXkEyXkFqcGc@._V1_QL75_UX186_.jpg",
-    "Genre": "Action, Crime, Drama",
-    "Released": "25 Sep 2026",
-    "Plot": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel."
-  },
-  {
-    "imdbID": "tt35866986",
-    "Title": "How to Rob a Bank",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MTAxYTItZjUzMC00NDk3LWI0OWMtZjM0YTU3ODUyMDk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Crime, Thriller",
-    "Released": "04 Sep 2026",
-    "Plot": "Bank robbers are posting their heists on social media, causing police to chase them."
-  },
-  {
-    "imdbID": "tt27665778",
-    "Title": "Horizon: An American Saga - Chapter 2",
-    "Year": "2025",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMDg1OWI3NTYtY2IwMy00NmQ4LTk5YWUtZmViNmU5YTFkNGU5XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
-    "Genre": "Drama, Western",
-    "Runtime": "190 min",
-    "imdbRating": "7.0",
-    "imdbVotes": "1,944",
-    "Released": "07 Feb 2025",
-    "Plot": "The continuation of one story of the settlement of the American west. It follows the further adventures of characters first featured in Horizon: An American Saga."
-  },
-  {
-    "imdbID": "tt13622776",
-    "Title": "Ahsoka",
-    "Year": "2023–",
-    "Type": "series",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3MjVjZjUtYTEyMi00OTA5LWExMzEtYjhhYmEyYzMzNTBiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Fantasy",
-    "imdbRating": "7.4",
-    "imdbVotes": "145,390",
-    "Released": "22 Aug 2023",
-    "Plot": "Set in the Star Wars universe, former Jedi Ahsoka Tano navigates a galaxy fractured by war and political unrest. Tasked with uncovering conspiracies and confronting remnants of the Empire, she allies with familiar and new characters while confronting her past. The series blends adventure, political intrigue, and character-driven storytelling, exploring morality, identity, and the balance between justice and vengeance in a complex galactic landscape."
-  },
-  {
-    "imdbID": "tt13623128",
-    "Title": "Armor Wars",
-    "Year": null
-  },
-  {
-    "imdbID": "tt28103605",
-    "Title": "Extraction 3",
-    "Year": null
-  },
-  {
-    "imdbID": "tt8285320",
-    "Title": "Fortitude",
-    "Year": null
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ4ZGZlNGQtMjYxMi00NGNhLTgwYmYtMzdkYTQzZmQzNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Genre": "Drama",
+    "Plot": "An ex-DEA agent searches South American mountains for his murdered diplomat siblings' children, aided by a junkie photographer who saw the killers, confronting past demons as reality blurs in remote wilderness."
   }
 ]
