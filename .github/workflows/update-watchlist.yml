@@ -204,7 +204,7 @@ jobs:
               except (ValueError, TypeError):
                   return (0, 0)
 
-          movies.sort(key=sort_key, reverse=True)
+          movies.sort(key=sort_key)
 
           # 4. Save enriched data.
           os.makedirs("data", exist_ok=True)
