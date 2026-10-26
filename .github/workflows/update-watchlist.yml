@@ -1,51 +1,40 @@
 
-name: Update IMDb Watchlist
+name: Fetch IMDb Watchlist
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "17 5 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  fetch-watchlist:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Read complete IMDb watchlist
-        env:
-          IMDB_USER_ID: ur210854686
+      - name: Fetch all IMDb watchlist titles
         run: |
           python - <<'PY'
           import json
           import os
-          import sys
           import urllib.request
           import urllib.error
 
-          endpoint = "https://api.graphql.imdb.com/"
-          user_id = os.environ["IMDB_USER_ID"]
+          USER_ID = "ur210854686"
+          URL = "https://api.graphql.imdb.com/"
 
           query = """
-          query GetWatchlist($userId: ID!, $first: Int!, $after: ID) {
+          query GetWatchlist($userId: ID!, $first: Int!, $after: String) {
             predefinedList(classType: WATCH_LIST, userId: $userId) {
               titleListItemSearch(first: $first, after: $after) {
                 edges {
-                  node {
-                    title {
-                      id
-                      titleText {
-                        text
-                      }
-                      releaseYear {
-                        year
-                      }
-                    }
+                  title {
+                    id
+                    titleText { text }
+                    releaseYear { year }
                   }
                 }
                 pageInfo {
@@ -57,22 +46,23 @@ jobs:
           }
           """
 
-          titles = []
-          cursor = None
+          movies = []
+          after = None
           seen_cursors = set()
+          page = 0
 
           while True:
               payload = {
                   "query": query,
                   "variables": {
-                      "userId": user_id,
-                      "first": 100,
-                      "after": cursor
+                      "userId": USER_ID,
+                      "first": 250,
+                      "after": after
                   }
               }
 
               request = urllib.request.Request(
-                  endpoint,
+                  URL,
                   data=json.dumps(payload).encode("utf-8"),
                   headers={
                       "Content-Type": "application/json",
@@ -87,67 +77,70 @@ jobs:
                   with urllib.request.urlopen(request, timeout=30) as response:
                       result = json.load(response)
               except urllib.error.HTTPError as exc:
-                  body = exc.read().decode("utf-8", errors="replace")
-                  sys.exit(
-                      f"IMDb HTTP {exc.code}: {body[:1500]}"
+                  raise RuntimeError(
+                      "IMDb returned HTTP " + str(exc.code) + ": " +
+                      exc.read().decode("utf-8", errors="replace")
                   )
-              except Exception as exc:
-                  sys.exit(f"IMDb request failed: {exc}")
 
               if result.get("errors"):
-                  sys.exit(
-                      "IMDb GraphQL errors: "
-                      + json.dumps(result["errors"], ensure_ascii=False)
+                  raise RuntimeError(
+                      "IMDb GraphQL error: " +
+                      json.dumps(result["errors"], ensure_ascii=False)
                   )
 
               listing = (result.get("data") or {}).get("predefinedList")
               if listing is None:
-                  sys.exit("IMDb returned no public watchlist.")
+                  raise RuntimeError(
+                      "IMDb returned no watchlist. Check the user ID "
+                      "and whether the watchlist is publicly accessible."
+                  )
 
               connection = listing.get("titleListItemSearch")
               if connection is None:
-                  sys.exit("IMDb response has no titleListItemSearch.")
+                  raise RuntimeError("IMDb returned no title connection.")
 
+              page += 1
               for edge in connection.get("edges", []):
-                  title = (edge.get("node") or {}).get("title")
-                  if title and title.get("id"):
-                      titles.append({
-                          "id": title["id"],
-                          "title": (title.get("titleText") or {}).get("text"),
-                          "year": (title.get("releaseYear") or {}).get("year")
+                  title = edge.get("title") or {}
+                  imdb_id = title.get("id")
+                  if imdb_id:
+                      movies.append({
+                          "imdbID": imdb_id,
+                          "Title": (title.get("titleText") or {}).get("text"),
+                          "Year": (title.get("releaseYear") or {}).get("year")
                       })
 
-              page = connection["pageInfo"]
+              page_info = connection.get("pageInfo") or {}
+              print("Page", page, "- total titles:", len(movies))
 
-              if not page["hasNextPage"]:
+              if not page_info.get("hasNextPage"):
                   break
 
-              cursor = page.get("endCursor")
+              after = page_info.get("endCursor")
+              if not after or after in seen_cursors:
+                  raise RuntimeError("Invalid or repeated pagination cursor.")
+              seen_cursors.add(after)
 
-              if not cursor or cursor in seen_cursors:
-                  sys.exit(
-                      "Pagination failed; refusing incomplete data."
-                  )
-
-              seen_cursors.add(cursor)
-
-          if not titles:
-              sys.exit(
-                  "No titles returned; refusing to publish an empty list."
+          if not movies:
+              raise RuntimeError(
+                  "No titles were retrieved; refusing to save an empty list."
               )
 
           os.makedirs("data", exist_ok=True)
-
           with open("data/watchlist.json", "w", encoding="utf-8") as f:
-              json.dump(titles, f, ensure_ascii=False, indent=2)
+              json.dump(movies, f, ensure_ascii=False, indent=2)
 
-          print(f"Successfully fetched {len(titles)} titles.")
+          print("SUCCESS: saved", len(movies), "titles to data/watchlist.json")
           PY
 
-      - name: Commit watchlist
+      - name: Commit watchlist data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/watchlist.json
-          git diff --cached --quiet || git commit -m "Update IMDb watchlist"
-          git push
+          if git diff --cached --quiet; then
+            echo "Watchlist has not changed."
+          else
+            git commit -m "Update IMDb watchlist data"
+            git push
+          fi
