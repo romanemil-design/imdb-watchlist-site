@@ -1,5 +1,57 @@
 [
   {
+    "imdbID": "tt33041431",
+    "Title": "Vought Rising",
+    "Year": "2027–",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjE5NWIyZDQtMDdmYy00YWUwLTk3MzMtMjhiOTc3ZTJlMzI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Genre": "Action, Adventure, Comedy",
+    "Plot": "A prequel series set in the 1950s that follows Soldier Boy and Clara Vought (known to some as Stormfront) on a murder mystery during the early days of Vought."
+  },
+  {
+    "imdbID": "tt37968650",
+    "Title": "The Last Photograph",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ4ZGZlNGQtMjYxMi00NGNhLTgwYmYtMzdkYTQzZmQzNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Genre": "Drama",
+    "Plot": "An ex-DEA agent searches South American mountains for his murdered diplomat siblings' children, aided by a junkie photographer who saw the killers, confronting past demons as reality blurs in remote wilderness."
+  },
+  {
+    "imdbID": "tt39026948",
+    "Title": "Sgt. Haane",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTUxYTRlYzEtNzhkMS00MmU5LThkZjAtNGYxNjE3OGY1ZjFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Genre": "Documentary, Action, War",
+    "Runtime": "86 min"
+  },
+  {
+    "imdbID": "tt36413910",
+    "Title": "The Mosquito Bowl",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyNWFiNDEtNGFmNC00ZGQwLWJkNDItZTExYjE4YzJiYjQ5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Genre": "Drama, History, War",
+    "Plot": "After Pearl Harbor, four star college footballers join the Marines. Before facing Okinawa's invasion, they participate in a historic game with legendary players - for many, their final match."
+  },
+  {
+    "imdbID": "tt18270542",
+    "Title": "Ray Gunn",
+    "Year": "2026",
+    "Type": "movie",
+    "Genre": "Animation, Family, Sci-Fi",
+    "Plot": "The film is a passion project of Bird's that he's being trying to make for nearly 30 years. Originally created alongside Matthew Robbins, it's reportedly the story of the last human private detective, Raymund Gunn, in a future wor..."
+  },
+  {
+    "imdbID": "tt18224594",
+    "Title": "Blade Runner 2099",
+    "Year": "2026",
+    "Type": "series",
+    "Genre": "Action, Drama, Mystery",
+    "Plot": "Takes place fifty years after the events of \"Blade Runner 2049\"."
+  },
+  {
     "imdbID": "tt19850008",
     "Title": "The Batman: Part II",
     "Year": "2027",
@@ -297,16 +349,6 @@
     "Plot": "A master thief enlists two strangers for a Louvre heist targeting the Mona Lisa, then reveals they're his children and siblings who must cooperate to pull off history's greatest art theft."
   },
   {
-    "imdbID": "tt35854736",
-    "Title": "Avatar: Seven Havens",
-    "Year": "2026–",
-    "Type": "series",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGRiNzVlZjYtYTIwMS00ZTlhLWI0M2QtZmFhYTcxZjk0NDYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "Genre": "Animation, Action, Adventure",
-    "Released": "09 Oct 2026",
-    "Plot": "After a world-shattering disaster, a young Earthbender learns she's the post-Korra Avatar. Now seen as a harbinger of doom, she and her twin race to save the Seven Havens while pursued by humans and spirits alike."
-  },
-  {
     "imdbID": "tt31450459",
     "Title": "Digger",
     "Year": "2026",
@@ -384,60 +426,8 @@
     "Year": null
   },
   {
-    "imdbID": "tt39026948",
-    "Title": "Sgt. Haane",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOTUxYTRlYzEtNzhkMS00MmU5LThkZjAtNGYxNjE3OGY1ZjFiXkEyXkFqcGc@._V1_SX300.jpg",
-    "Genre": "Documentary, Action, War",
-    "Runtime": "86 min"
-  },
-  {
-    "imdbID": "tt33041431",
-    "Title": "Vought Rising",
-    "Year": "2027–",
-    "Type": "series",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BYjE5NWIyZDQtMDdmYy00YWUwLTk3MzMtMjhiOTc3ZTJlMzI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-    "Genre": "Action, Adventure, Comedy",
-    "Plot": "A prequel series set in the 1950s that follows Soldier Boy and Clara Vought (known to some as Stormfront) on a murder mystery during the early days of Vought."
-  },
-  {
-    "imdbID": "tt36413910",
-    "Title": "The Mosquito Bowl",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyNWFiNDEtNGFmNC00ZGQwLWJkNDItZTExYjE4YzJiYjQ5XkEyXkFqcGc@._V1_SX300.jpg",
-    "Genre": "Drama, History, War",
-    "Plot": "After Pearl Harbor, four star college footballers join the Marines. Before facing Okinawa's invasion, they participate in a historic game with legendary players - for many, their final match."
-  },
-  {
-    "imdbID": "tt18270542",
-    "Title": "Ray Gunn",
-    "Year": "2026",
-    "Type": "movie",
-    "Genre": "Animation, Family, Sci-Fi",
-    "Plot": "The film is a passion project of Bird's that he's being trying to make for nearly 30 years. Originally created alongside Matthew Robbins, it's reportedly the story of the last human private detective, Raymund Gunn, in a future wor..."
-  },
-  {
-    "imdbID": "tt37968650",
-    "Title": "The Last Photograph",
-    "Year": "2027",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ4ZGZlNGQtMjYxMi00NGNhLTgwYmYtMzdkYTQzZmQzNTQyXkEyXkFqcGc@._V1_SX300.jpg",
-    "Genre": "Drama",
-    "Plot": "An ex-DEA agent searches South American mountains for his murdered diplomat siblings' children, aided by a junkie photographer who saw the killers, confronting past demons as reality blurs in remote wilderness."
-  },
-  {
     "imdbID": "tt8285320",
     "Title": "Fortitude",
     "Year": null
-  },
-  {
-    "imdbID": "tt18224594",
-    "Title": "Blade Runner 2099",
-    "Year": "2026",
-    "Type": "series",
-    "Genre": "Action, Drama, Mystery",
-    "Plot": "Takes place fifty years after the events of \"Blade Runner 2049\"."
   }
 ]
