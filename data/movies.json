@@ -15,6 +15,18 @@
     "Year": null
   },
   {
+    "imdbID": "tt33184638",
+    "Title": "Paris Has Fallen",
+    "Year": "2024–",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWY4OTNhZGYtMDViNi00OGM5LTkwN2UtNzFlNTlmMDA3ODE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Drama",
+    "imdbRating": "6.5",
+    "imdbVotes": "5,098",
+    "Released": "06 Dec 2024",
+    "Plot": "When a terrorist group led by the villainous Jacob Pearce attacks a high-profile event, with the French Minister of Defence as their target, protection officer Vincent Taleb finds himself working with street-smart MI6 operative Zara Taylor to save the day. But when events take a dark turn, Vincent and Zara soon realize that the plan extends beyond just one politician. When they suspect that one of their colleagues in the security services is feeding information to Jacob, Vincent and Zara find themselves needing to rely only on each other. Increasingly isolated and with Jacob always one step ahead, can this unlikely pair stop Paris from falling to a man hell-bent on vengeance?"
+  },
+  {
     "imdbID": "tt27665778",
     "Title": "Horizon: An American Saga - Chapter 2",
     "Year": "2025",
@@ -36,6 +48,19 @@
     "Genre": "Action, Crime, Thriller",
     "Released": "04 Sep 2026",
     "Plot": "Bank robbers are posting their heists on social media, causing police to chase them."
+  },
+  {
+    "imdbID": "tt36014231",
+    "Title": "Apollo Has Fallen",
+    "Year": "2026",
+    "Type": "episode",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGUwZmQ2YjktZGU1Ni00OTRhLTk0YjEtYmQ1YjIzZjZjY2Q5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Drama",
+    "Runtime": "44 min",
+    "imdbRating": "6.3",
+    "imdbVotes": "178",
+    "Released": "14 Sep 2026",
+    "Plot": "\"When chaos looms, trust is the deadliest weapon.\" In this highly anticipated edge-of-your-seat action thriller, fearless MI6 agent, Zara (Arya) and ex-protection officer Vincent (Jallab) return for their most explosive mission yet. After a daring hijack spirals into a shadowy conspiracy, the duo must confront ruthless mercenaries and their own harrowing pasts, all the while unsure exactly who they can trust. While a deadly virus threatens to decimate Europe, Zara and Vincent are pushed to the edge - facing betrayal, heartbreak, and impossible choices. With countless lives hanging in the balance and the clock ticking, can they outwit the brutal mercenary leader Yuri Mishkin (Koman), or will his insidious plan for chaos succeed? From the Libyan coast to the streets of Madrid, this heart-pounding thriller will keep audiences on the edge of their seats and guessing until the very last moment."
   },
   {
     "imdbID": "tt35856037",
