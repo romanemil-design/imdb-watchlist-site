@@ -95,11 +95,6 @@
     "Year": 2027
   },
   {
-    "imdbID": "tt35856037",
-    "Title": "Your Mother Your Mother Your Mother",
-    "Year": 2026
-  },
-  {
     "imdbID": "tt6779038",
     "Title": "Children of Blood and Bone",
     "Year": 2027
@@ -123,11 +118,6 @@
     "imdbID": "tt32659463",
     "Title": "Spaceballs: The New One",
     "Year": 2027
-  },
-  {
-    "imdbID": "tt32261958",
-    "Title": "Verity",
-    "Year": 2026
   },
   {
     "imdbID": "tt38686316",
@@ -197,6 +187,11 @@
   {
     "imdbID": "tt29634374",
     "Title": "Above the Below",
+    "Year": 2026
+  },
+  {
+    "imdbID": "tt27988879",
+    "Title": "Ramayana: Rise of a Legend",
     "Year": 2026
   }
 ]

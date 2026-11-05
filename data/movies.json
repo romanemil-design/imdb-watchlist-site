@@ -38,16 +38,6 @@
     "Plot": "Bank robbers are posting their heists on social media, causing police to chase them."
   },
   {
-    "imdbID": "tt35856037",
-    "Title": "Your Mother Your Mother Your Mother",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BZTYzNDA1MzQtMGVlZS00YTc5LTg4M2QtZGY0M2Y3NTQxNjcyXkEyXkFqcGc@._V1_QL75_UX186_.jpg",
-    "Genre": "Action, Crime, Drama",
-    "Released": "25 Sep 2026",
-    "Plot": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel."
-  },
-  {
     "imdbID": "tt31450459",
     "Title": "Digger",
     "Year": "2026",
@@ -57,17 +47,6 @@
     "Runtime": "106 min",
     "Released": "02 Oct 2026",
     "Plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
-  },
-  {
-    "imdbID": "tt32261958",
-    "Title": "Verity",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Crime, Drama, Mystery",
-    "Runtime": "114 min",
-    "Released": "02 Oct 2026",
-    "Plot": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
   },
   {
     "imdbID": "tt34890576",
@@ -143,6 +122,16 @@
     "Genre": "Comedy, Crime, Drama",
     "Released": "06 Nov 2026",
     "Plot": "Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students (Mariana di Girolamo and Ailín Salas) threatens to send everyone's trip to this remote paradise sideways."
+  },
+  {
+    "imdbID": "tt27988879",
+    "Title": "Ramayana",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzljMTFkYTktMjQ0MC00NjFhLWFmOTEtOTMyZmVhNTBmYTMzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Drama",
+    "Released": "08 Nov 2026",
+    "Plot": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
   },
   {
     "imdbID": "tt32558705",
