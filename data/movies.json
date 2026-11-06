@@ -49,6 +49,19 @@
     "Plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything."
   },
   {
+    "imdbID": "tt45368240",
+    "Title": "You Can See Everything",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Documentary, Biography",
+    "Runtime": "174 min",
+    "imdbRating": "7.9",
+    "imdbVotes": "165",
+    "Released": "16 Oct 2026",
+    "Plot": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss."
+  },
+  {
     "imdbID": "tt34890576",
     "Title": "Clayface",
     "Year": "2026",
@@ -153,6 +166,17 @@
     "Genre": "Comedy",
     "Released": "25 Nov 2026",
     "Plot": "A young man named Henry, son of Greg and Pam Focker, faces family chaos when he decides to marry a strong-willed woman who appears to be his complete mismatch."
+  },
+  {
+    "imdbID": "tt32213169",
+    "Title": "Way of the Warrior Kid",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWU2Y2YyMjEtNGNlYy00NTdhLWE0YTktYTkzNDUyZWYyYTNlXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Comedy",
+    "Runtime": "106 min",
+    "Released": "25 Nov 2026",
+    "Plot": "A self-doubting kid who gets bullied learns to find his inner warrior with the help of his uncle, an elite Navy SEAL, who uses his training to guide the youth over the summer."
   },
   {
     "imdbID": "tt24818230",
@@ -375,5 +399,14 @@
     "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ4ZGZlNGQtMjYxMi00NGNhLTgwYmYtMzdkYTQzZmQzNTQyXkEyXkFqcGc@._V1_SX300.jpg",
     "Genre": "Drama",
     "Plot": "An ex-DEA agent searches South American mountains for his murdered diplomat siblings' children, aided by a junkie photographer who saw the killers, confronting past demons as reality blurs in remote wilderness."
+  },
+  {
+    "imdbID": "tt27706987",
+    "Title": "Lords of War",
+    "Year": "2027",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTI4YjliZTctZTAzNy00MTFkLTllMGUtMWUxYjBiMWI1MDZiXkEyXkFqcGc@._V1_QL75_UX186_.jpg",
+    "Genre": "Action, Crime, Thriller",
+    "Plot": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry."
   }
 ]
