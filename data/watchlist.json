@@ -150,11 +150,6 @@
     "Year": 2026
   },
   {
-    "imdbID": "tt13884466",
-    "Title": "Model Citizen",
-    "Year": 2026
-  },
-  {
     "imdbID": "tt32359344",
     "Title": "Wife and Dog",
     "Year": 2027
@@ -213,10 +208,5 @@
     "imdbID": "tt43677110",
     "Title": "Maelstrom",
     "Year": null
-  },
-  {
-    "imdbID": "tt31414242",
-    "Title": "The Patient",
-    "Year": 2025
   }
 ]
