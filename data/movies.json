@@ -33,16 +33,6 @@
     "Plot": "The continuation of one story of the settlement of the American west. It follows the further adventures of characters first featured in Horizon: An American Saga."
   },
   {
-    "imdbID": "tt35866986",
-    "Title": "How to Rob a Bank",
-    "Year": "2026",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MTAxYTItZjUzMC00NDk3LWI0OWMtZjM0YTU3ODUyMDk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Crime, Thriller",
-    "Released": "04 Sep 2026",
-    "Plot": "Bank robbers are posting their heists on social media, causing police to chase them."
-  },
-  {
     "imdbID": "tt31450459",
     "Title": "Digger",
     "Year": "2026",
@@ -213,6 +203,16 @@
     "Plot": "The plot is being kept under wraps"
   },
   {
+    "imdbID": "tt36408401",
+    "Title": "Untitled Cliff Booth Movie",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWU0OTNmZTEtYzQzMy00NjUzLWFjNWMtNzkyMmRmZWJiMDJmXkEyXkFqcGc@._V1_QL75_UY562_CR503,0,380,562_.jpg",
+    "Genre": "Action, Comedy, Crime",
+    "Released": "23 Dec 2026",
+    "Plot": "Showcases more of Cliff Booth's backstory in his new role as a Hollywood fixer."
+  },
+  {
     "imdbID": "tt34491649",
     "Title": "Zero A.D.",
     "Year": "2026",
@@ -367,14 +367,6 @@
     "Plot": "The film is a passion project of Bird's that he's being trying to make for nearly 30 years. Originally created alongside Matthew Robbins, it's reportedly the story of the last human private detective, Raymund Gunn, in a future wor..."
   },
   {
-    "imdbID": "tt18224594",
-    "Title": "Blade Runner 2099",
-    "Year": "2026",
-    "Type": "series",
-    "Genre": "Action, Drama, Mystery",
-    "Plot": "Takes place fifty years after the events of \"Blade Runner 2049\"."
-  },
-  {
     "imdbID": "tt33041431",
     "Title": "Vought Rising",
     "Year": "2027–",
@@ -400,5 +392,14 @@
     "Poster": "https://m.media-amazon.com/images/M/MV5BOTI4YjliZTctZTAzNy00MTFkLTllMGUtMWUxYjBiMWI1MDZiXkEyXkFqcGc@._V1_QL75_UX186_.jpg",
     "Genre": "Action, Crime, Thriller",
     "Plot": "Yuri Orlov, the world's most famous arms dealer, discovers that he has a son, Anton who is trying to outdo his father by raising an army of mercenaries to fight in America's Middle Eastern conflicts, triggering a father-son rivalry."
+  },
+  {
+    "imdbID": "tt37196475",
+    "Title": "Frisco King",
+    "Year": "2027–",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWRlODExODctNzhjMC00NjNhLTliNzYtODc4Mjc4NzJjMzRmXkEyXkFqcGc@._V1_QL75_UX358_.jpg",
+    "Genre": "Crime, Drama",
+    "Plot": "Ex-con Russell Lee Washington Jr. befriends Dwight in prison. Sent by the mob to kill him in Tulsa, he's instead inspired to build his own criminal empire in Frisco, Texas."
   }
 ]

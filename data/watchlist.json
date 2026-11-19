@@ -70,11 +70,6 @@
     "Year": 2027
   },
   {
-    "imdbID": "tt35866986",
-    "Title": "How to Rob a Bank",
-    "Year": 2026
-  },
-  {
     "imdbID": "tt34512981",
     "Title": "Ice Age: Boiling Point",
     "Year": 2027
@@ -165,11 +160,6 @@
     "Year": 2027
   },
   {
-    "imdbID": "tt18224594",
-    "Title": "Blade Runner 2099",
-    "Year": 2026
-  },
-  {
     "imdbID": "tt35935357",
     "Title": "The Beekeeper 2",
     "Year": 2027
@@ -208,5 +198,15 @@
     "imdbID": "tt43677110",
     "Title": "Maelstrom",
     "Year": null
+  },
+  {
+    "imdbID": "tt36408401",
+    "Title": "The Further Mis-Adventures of Cliff Booth",
+    "Year": 2026
+  },
+  {
+    "imdbID": "tt37196475",
+    "Title": "Frisco King",
+    "Year": 2026
   }
 ]
