@@ -273,6 +273,15 @@
     "Plot": "A damaged hacker named Case, thrust into digital espionage and high stakes crime with Molly, pulling a heist on corporate dynasty."
   },
   {
+    "imdbID": "tt36593129",
+    "Title": "Untitled Glen Powell/Judd Apatow/Universal Project",
+    "Year": "2027",
+    "Type": "movie",
+    "Genre": "Comedy",
+    "Released": "05 Feb 2027",
+    "Plot": "A country western star experiences a dramatic downfall and must navigate their career in free fall."
+  },
+  {
     "imdbID": "tt5500064",
     "Title": "The Thomas Crown Affair",
     "Year": "2027",
@@ -366,6 +375,16 @@
     "Type": "movie",
     "Genre": "Animation, Family, Sci-Fi",
     "Plot": "The film is a passion project of Bird's that he's being trying to make for nearly 30 years. Originally created alongside Matthew Robbins, it's reportedly the story of the last human private detective, Raymund Gunn, in a future wor..."
+  },
+  {
+    "imdbID": "tt37171180",
+    "Title": "Artificial",
+    "Year": "2026",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzM4OTA0ZjAtNTc4Ny00Y2E0LTkwNjctN2I1MGNmY2U1YjIwXkEyXkFqcGc@._V1_QL75_UX374_.jpg",
+    "Genre": "Biography, Comedy, Drama",
+    "Runtime": "140 min",
+    "Plot": "Follows the confusing firing and rehiring cycle of Sam Altman at OpenAI where the board gained control of the company and removed him, and Altman still returned."
   },
   {
     "imdbID": "tt33041431",
