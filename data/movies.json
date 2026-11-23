@@ -124,11 +124,13 @@
     "Title": "The Hunger Games: Sunrise on the Reaping",
     "Year": "2026",
     "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkYmM2MjUtZTY4Yi00YTNhLTk1MDEtYTQ3YjFiOTljM2Y1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-    "Genre": "Action, Adventure, Drama",
-    "Runtime": "150 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjEzYTE2ODEtNzY5Zi00ZmVmLWEyYzEtYjdlZWU2NjcyYzMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Genre": "Action, Adventure, Fantasy",
+    "Runtime": "158 min",
+    "imdbRating": "7.6",
+    "imdbVotes": "22,802",
     "Released": "20 Nov 2026",
-    "Plot": "Explores Panem 24 years before Katniss' saga, starting on the morning of the reaping for the 50th Hunger Games, where a young Haymitch Abernathy participates."
+    "Plot": "Revisit the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell."
   },
   {
     "imdbID": "tt34966140",
